@@ -1,0 +1,105 @@
+
+.main{
+    display: flex;
+    background-color:rgb(199, 250, 250);
+    height: 70px;
+    justify-content: space-between;
+    padding: 10px;
+    font-weight: bold;
+}
+
+.left{
+font-size: 150%;
+
+
+
+}
+
+.right{
+    padding-top: 1%;
+}
+ol{
+    display: flex;
+    
+    
+}
+li{
+    padding-right: 50px;
+list-style-type: none;
+
+    
+    color: blue;
+}
+.second{
+ height:440px;
+ background-color: white;
+ display: flex;
+ }
+
+ .xer{
+ color: blue;
+ }
+
+
+
+.third{
+    background-color: black;
+    color: white ;
+    display:flex;
+    font-weight: bold;
+    height: 200px;
+}
+.info{
+    padding-top: 1%;
+    padding-left: 1%;
+
+}
+
+
+i{
+    color: red;
+   
+
+}
+.wow{
+    padding-left: 20%;
+    padding-top: 1%;
+}
+label{
+    display:block;
+}
+.one{
+    padding-left: 1%;
+}
+img{
+height: 100%;
+width: 35%;
+}
+  
+.d{
+    padding-left: 5%;
+    padding-top: 1%;
+    font-weight: bold;
+    font-size: 125%;
+
+}
+.y{
+    padding-left: 22%;
+    padding-top: 3%;
+}
+
+input[type="button"]{
+    border-radius: 20px;
+    height:35px;
+    width:250px;
+    justify-content: center;
+    color:white;
+    background-color: blue;
+    border-color: blue;
+}
+
+
+
+
+
+

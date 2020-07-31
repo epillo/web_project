@@ -1,0 +1,80 @@
+
+.main{
+    display: flex;
+    background-color:rgb(199, 250, 250);
+    height: 70px;
+    justify-content: space-between;
+    padding: 10px;
+    font-weight: bold;
+}
+ol{
+    display: flex;
+    
+    
+}
+li{
+    padding-right: 50px;
+list-style-type: none;
+
+    
+    color: blue;
+}
+.second{
+ height:400px;
+ background-color: white;
+ background-image: url(calling.jpg);
+ background-repeat: no-repeat;
+ background-size: cover;
+ font-weight: bold;
+ font-size: 120%;
+
+}
+.third{
+    background-color: black;
+    color: white ;
+    display:flex;
+    font-weight: bold;
+    height: 200px;
+   
+}
+.info{
+    padding-top: 1%;
+    padding-left: 1%;
+
+}
+
+
+i{
+    color: red;
+   
+
+}
+.wow{
+    padding-left: 20%;
+    padding-top: 1%;
+}
+label{
+    display:block;
+}
+.one{
+    padding-left: 1%;
+    
+}
+.words{
+    padding-left: 0.5%;
+ 
+}
+
+.left{
+    font-size: 150%;
+    
+    
+    
+    }
+    
+
+
+
+
+
+
